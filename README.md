@@ -80,7 +80,7 @@ Below is a screenshot of the evaluation reports and XGBoost confusion matrix fro
 
 ![Evaluation Report](evaluation.jpg)
 
-![XGBoost CM report](cm-image.jpg)
+![XGBoost CM report](cm image.jpg)
 
 ## Model Deployment
 The model was deployed using Streamlit
