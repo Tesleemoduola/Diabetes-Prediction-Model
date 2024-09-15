@@ -59,7 +59,7 @@ The classifiers were trained on the training dataset, and evaluated on the test 
 The following table lists the importance scores of various features used in the model. The higher value, the greater importance 
 of the feature in the prediction by the model.
 
-![Feature Importance](feature importance.jpg)
+![Feature Importance](feature-importance.jpg)
 
 The feature importance for the XGBoost model was determined using the **"gain" metric**, which reflects how much each feature improves the performance of splits in the decision trees.
 
@@ -80,7 +80,7 @@ Below is a screenshot of the evaluation reports and XGBoost confusion matrix fro
 
 ![Evaluation Report](evaluation.jpg)
 
-![XGBoost CM report](cm image.jpg)
+![XGBoost CM report](cm-image.jpg)
 
 ## Model Deployment
 The model was deployed using Streamlit
