@@ -78,8 +78,6 @@ Overall, glucose level, BMI, and pain are the most important features in the mod
 The performance of the models was evaluated on the test dataset using metrics such as accuracy, precision, recall, and F1-score.
 Below is a screenshot of the evaluation reports and XGBoost confusion matrix from the notebook:
 
-![Evaluation Report](evaluation.jpg)
-
 ![XGBoost CM report](cm-image.jpg)
 
 ## Model Deployment
