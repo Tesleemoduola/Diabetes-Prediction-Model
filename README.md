@@ -83,4 +83,4 @@ Below is a screenshot of the evaluation reports and XGBoost confusion matrix fro
 ## Model Deployment
 The model was deployed using Streamlit
 
-![Model Picture](predictor.jpg)
+![Model Picture](Predictor.jpg)
